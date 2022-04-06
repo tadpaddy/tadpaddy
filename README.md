@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @tadpaddy
 - 👀 I’m interested in Data Science and visulaization...
-- 🌱 I’m currently doing some data mining in R,python, Rapid miner and excell.
-- I am also learning  
+- 🌱 Over the past 3 years, I've been and I’m currently doing some data mining in R,Python, Tableau and Ms Excell.
+- I have recently got my hands on RapidMiner and MySQL and so far the journey is very entertaining. 
+- Updates in ML sofwares adaptabilty to data pre-processing and mining look very interesting.    
 - I have a Bsc in Mathematical Science and a Msc in Business Information and Analytics Systems..
-- 💞️ For the moment I’m looking to collaborate on anything dealing with data and statistics...
+- 💞️ For the moment I’m looking to collaborate on anything dealing with Data and Statistics...
 - 📫 How to reach me : tadatus@gmail.com...
 
 <!---
